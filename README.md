@@ -1,27 +1,68 @@
-# Quem sou EU : Desenvolvedor Front-End em formação | Em transição de carreira (SSMA → Tecnologia):
+# 👋 Bem-vindo(a) ao meu perfil!
 
-- ## NOME: Danilo Pereira Cirino de Vasconcelos
+## Sobre Mim
 
-- ### PROFISSÃO: Desenvolvedor Front-End em formação | HTML, CSS, JavaScript | Em transição de carreira (SSMA → Tecnologia)
+**Danilo Pereira Cirino de Vasconcelos**
 
-- #### EXPERIÊNCIAS: 
+Sou um **Desenvolvedor Front-End em formação**, atualmente em transição de carreira de SSMA (Saúde, Segurança e Meio Ambiente) para Tecnologia.
 
-- Profissional com experiência na área de Saúde, Segurança e Meio Ambiente (SSMA), atualmente em transição de carreira para a área de tecnologia, com foco em Desenvolvimento Front-End.
+### 🎯 Objetivo Profissional
 
-Possuo conhecimentos em HTML, CSS e JavaScript, com experiência prática no desenvolvimento de projetos próprios voltados para interfaces web responsivas.
+Busco uma oportunidade como **Desenvolvedor Front-End Júnior** para contribuir com projetos inovadores, evoluir tecnicamente e gerar valor através da tecnologia.
 
-Minha trajetória profissional desenvolveu habilidades como organização, análise de processos, atenção a detalhes e trabalho em equipe, que aplico no desenvolvimento de soluções eficientes.
+### 💼 Experiência
 
-Busco oportunidade como Desenvolvedor Front-End Júnior para contribuir com projetos, evoluir tecnicamente e gerar valor através da tecnologia.
+Profissional com experiência sólida na área de SSMA, com histórico de:
+- Organização e análise de processos
+- Atenção aos detalhes
+- Trabalho colaborativo em equipe
+- Desenvolvimento de soluções eficientes
 
-- ##### CURSOS: Graduando:
-  
-- Curso Técnico em Segurança do Trabalho.
-- Graduação em Administração - UNOPAR 2023.
-- Graduação em Engenharia de Software - ANHANGUERA - Conclusão em 2027.
+### 🛠️ Habilidades Técnicas
 
-  
+Possuo conhecimentos práticos em:
+- **HTML5** - Estruturação semântica de páginas web
+- **CSS3** - Estilização e responsividade
+- **JavaScript** - Lógica e interatividade
 
-- ##### LINKEDIN:
+Experiência no desenvolvimento de **projetos próprios** com foco em interfaces web responsivas e user-friendly.
 
-- Links: [https://www.linkedin.com/in/danilo-vasconcelos-032a9075/](https://www.linkedin.com/in/danilo-pereira-cirino-de-vasconcelos-032a9075/)
+### 🎓 Formação Acadêmica
+
+- **Graduação em Engenharia de Software** - ANHANGUERA (Conclusão: 2027)
+- **Graduação em Administração** - UNOPAR (2023)
+- **Curso Técnico em Segurança do Trabalho** (Conclusão: 2010)
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/danvasconcelos">
+    <img height="180em" src="https://github-readme-stats-q1bs-git-main-danilo-vasconcelos-projects.vercel.app/api?username=danvasconcelos&show_icons=false&theme=dracula&include_all_commits=true&count_private=true&v=3" alt="Estatísticas do GitHub"/>
+    <img height="180em" src="https://github-readme-stats-q1bs-git-main-danilo-vasconcelos-projects.vercel.app/api/top-langs/?username=danvasconcelos&layout=compact&langs_count=6&theme=dracula&v=3" alt="Linguagens mais utilizadas"/>
+  </a>
+</div>
+
+---
+
+## 🚀 Tecnologias
+
+<div align="righ">
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+---
+
+## 📬 Entre em Contato
+
+<div align="righ">
+  <a href="mailto:danilovasconcelos88@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=hotmail&logoColor=white" alt="Enviar email">
+  </a>
+  <a href="https://www.linkedin.com/in/danilo-pereira-cirino-de-vasconcelos-032a9075/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil LinkedIn">
+  </a>
+</div> 
