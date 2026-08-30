@@ -39,8 +39,8 @@ Experiência no desenvolvimento de **projetos próprios** com foco em interfaces
 
 <div align="center">
   <a href="https://github.com/danvasconcelos">
-    <img height="180em" src="https://vercelstats-sigma.vercel.app/api?username=danvasconcelos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=5" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://vercelstats-sigma.vercel.app/api/top-langs/?username=danvasconcelos&layout=compact&langs_count=6&theme=dracula&v=5" alt="Linguagens mais utilizadas"/>
+    <img height="180em" src="https://github-readme-stats-q1bs.vercel.app/api?username=danvasconcelos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=6" alt="Estatísticas do GitHub"/>
+    <img height="180em" src="https://github-readme-stats-q1bs.vercel.app/api/top-langs/?username=danvasconcelos&layout=compact&langs_count=6&theme=dracula&v=6" alt="Linguagens mais utilizadas"/>
   </a>
 </div>
 
